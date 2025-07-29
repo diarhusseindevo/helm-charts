@@ -1,0 +1,5 @@
+apiVersion: v2
+name: simple-helm-app
+description: Een simpele Helm app voor Argo CD demo
+version: 0.1.0
+appVersion: "1.0"
